@@ -1,5 +1,5 @@
 # Example for use codox and CircleCI generate online document
-[![Circle CI](https://circleci.com/gh/clojure-tw/example-codox-circleci.svg?style=svg)](https://circleci.com/gh/clojuretwbot/example-codox-circleci)
+[![Circle CI](https://circleci.com/gh/clojure-tw/example-codox-circleci.svg?style=svg)](https://circleci.com/gh/clojure-tw/example-codox-circleci)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/clojure-tw/example-codox-circleci/master/LICENSE)
 
 A simple example for how to use [codox](https://github.com/weavejester/codox) generate document then make [Circle CI](https://circleci.com) push to gh-pages.
