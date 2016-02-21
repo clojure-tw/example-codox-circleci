@@ -4,4 +4,8 @@
   :license {:name "MIT License"
             :url "https://github.com/clojure-tw/example-codox-circleci/LICENSE"}
 
-  :dependencies [[org.clojure/clojure "1.8.0"]])
+  :dependencies [[org.clojure/clojure "1.8.0"]]
+
+  :plugins [[lein-codox "0.9.4"]]
+
+  :codox {:source-uri "https://github.com/clojure-tw/example-codox-circleci/blob/master/{filepath}#L{line}"})
