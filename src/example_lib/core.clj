@@ -1,6 +1,6 @@
 (ns example-lib.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(defn hello
+  "Say `Hello World!'."
+  []
+  "Hello, World!")
