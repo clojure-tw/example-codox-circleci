@@ -1,11 +1,10 @@
-# example-lib
+# Example for use codox and CircleCI generate online document
+[![Circle CI](https://circleci.com/gh/clojure-tw/example-codox-circleci.svg?style=svg)](https://circleci.com/gh/clojuretwbot/example-codox-circleci)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/clojure-tw/example-codox-circleci/master/LICENSE)
 
-A Clojure library designed to ... well, that part is up to you.
+A simple example for how to use [codox](https://github.com/weavejester/codox) generate document then make [Circle CI](https://circleci.com) push to gh-pages.
 
-## Usage
-
-FIXME
+For Chinese user, please see: [使用 codox 與 CircleCI 建立 Clojure 專案的文檔](http://coldnew.github.io/blog/2016/02/21_codox/)
 
 ## License
 
